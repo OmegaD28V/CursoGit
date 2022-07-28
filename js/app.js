@@ -1,1 +1,2 @@
 //JavaScript
+alert("Hello world");
